@@ -9,6 +9,10 @@ And I've put it on GitHub because why not :3
    ```sh
    git clone https://github.com/SeekPlush-linux/brainfuck-interpreter-python
    ```
+2. Install the required Python package:
+   ```sh
+   pip install prompt-toolkit
+   ```
 3. And that's all!
 
 ## Usage
